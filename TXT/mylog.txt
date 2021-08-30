@@ -10,3 +10,5 @@ ZCZC W00  30 L64 Helping OS related problem to a friend.
 ZCZC W00   5 L14 Assignment #04
 ZCZC W00  60 L02 ZOOM meetings related
 ZCZC W00 120 L82 Reading Book (paper or online)
+ZCZC W00 100 L02 Zoom meetings related: 30-Aug Sync Class
+ZCZC W00 30 L15 Assignment #05
