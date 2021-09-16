@@ -23,3 +23,5 @@ ZCZC W01  20 L16 Assignment #06
 ZCZC W01  20 L17 Assignment #07
 ZCZC W01  60 L64 Helping OS related problem to a friend.
 ZCZC W01  30 L64 Helping OS related problem to a friend.
+ZCZC W01  20 L18 Assignment #08
+ZCZC W02 100 L02 Zoom meetings related: 13-Sep Sync Class
