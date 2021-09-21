@@ -23,3 +23,12 @@ secara brief tentang apa itu Operating System.
 ### 4. [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
 Untuk dapat membuat list ini menggunakan .md, tentunya saya harus dapat mengerti bagaimana cara menulis .md website ini telah membantu saya dalam 
 mencari apa saja syntax basic dari .md (markdown).
+
+### 5. [Introduction to C Programming](https://www.tutorialspoint.com/ansi_c/c_introduction.htm)
+Web berisi introduction tentang bahasa progamming C yang akan dipakai pada kelas OS.
+
+### 6. [C Cheatsheet](https://developerinsider.co/c-programming-language-cheat-sheet/)
+Web yang berisi banyak informasi berguna terkait bahasa programming C berupa cheatsheet beberapa operator ataupun hal lainnya yang dapat memudahkan dalam mempelajari bahasa progamming C.
+
+### 7. [OS Directory](https://www.javatpoint.com/os-directory-structure)
+Web yang menjelaskan mengenai segala hal dari OS Directory Structure seperti memory management, synchronaztion dan lainnya.
