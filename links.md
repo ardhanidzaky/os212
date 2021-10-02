@@ -32,3 +32,15 @@ Web yang berisi banyak informasi berguna terkait bahasa programming C berupa che
 
 ### 7. [OS Directory](https://www.javatpoint.com/os-directory-structure)
 Web yang menjelaskan mengenai segala hal dari OS Directory Structure seperti memory management, synchronaztion dan lainnya.
+
+### 8. [Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)
+Web yang menjelaskan mengenai memory management di dalam Operating System seperti Dynamic Loading dan Dynamic Linking serta lainnya
+
+### 9. [Memory Management 2](https://www.guru99.com/os-memory-management.html)
+Menjelaskan mengenai memory management dengan fokus lebih ke Contiguous, Swaping, dan Fragmentation
+
+### 10. [Linux Libraries Articles](https://medium.com/swlh/linux-basics-static-libraries-vs-dynamic-libraries-a7bcf8157779)
+Artikel singkat mengenai linux basic libraries serta dynamic libraries.
+
+### 11. [Linux Libraries Overview](http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html)
+Web yang menjelaskan mengenai libraries pada linux.
