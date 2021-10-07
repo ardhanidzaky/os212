@@ -68,3 +68,20 @@ ZCZC W04  35 L16 Assignment #06
 ZCZC W04  25 L17 Assignment #07
 ZCZC W04  10 L18 Assignment #08
 ZCZC W04   5 L17 Assignment #09
+ZCZC W05   5 L05 Quiz Week 4 Part 1
+ZCZC W05  15 L05 Quiz Week 4 Part 2
+ZCZC W05 100 L02 Zoom meetings related: 27-Sep Sync Class
+ZCZC W05 60 L11 Assignment #01
+ZCZC W05 20 L12 Assignment #02
+ZCZC W05 60 L13 Assignment #03
+ZCZC W05 10 L14 Assignment #04
+ZCZC W05  5 L15 Assignment #04
+ZCZC W05  5 L15 Assignment #04
+ZCZC W05  2 L15 Assignment #04
+ZCZC W05  7 L15 Assignment #04
+ZCZC W05 55 L16 Assignment #05
+ZCZC W05 20 L64 Helping OS related problem to a friend.
+ZCZC W05 20 L17 Assignment #07 
+ZCZC W05 15 L18 Assignment #08
+ZCZC W05 50 L06 References/Books/Documents/GSGS related.
+ZCZC W05 20 L64 Helping OS related problem to a friend.
