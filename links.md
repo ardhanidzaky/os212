@@ -44,3 +44,12 @@ Artikel singkat mengenai linux basic libraries serta dynamic libraries.
 
 ### 11. [Linux Libraries Overview](http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html)
 Web yang menjelaskan mengenai libraries pada linux.
+
+### 12. [Virtual Memory](https://techmonitor.ai/what-is/what-is-virtual-memory-4929986#:~:text=Virtual%20memory%20is%20a%20feature,space%20on%20the%20hard%20disk.)
+Penjelesan mengenai virtual memory pada suatu operating system
+
+### 13. [Virtual Memory 2](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+Penjelesan mengenai virtual memory pada suatu operating system
+
+### 14. [Memory Allocation](https://www.youtube.com/watch?v=lxus-whQDnk)
+Video penjelasan mengenai memory allocation
